@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    colour:purple;
+}
+body{
+    background-image: url(kenz.jpg);
+
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    colour:rgb(65, 28, 151);
+}
